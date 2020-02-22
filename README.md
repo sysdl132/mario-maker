@@ -1,3 +1,5 @@
+[![Fork me on Gitee](https://gitee.com/sysdl132/mario-maker/widgets/widget_6.svg)](https://gitee.com/sysdl132/mario-maker)
+
 # mario-maker
 Classic Mario Game with Level-Editor made using **plain Javascript and HTML5 canvas**.
 You can create your own levels and play or simply play the pre-built levels.
